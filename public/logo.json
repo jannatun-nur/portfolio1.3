@@ -1,0 +1,67 @@
+[
+    {
+        "logo": "https://i.ibb.co/H4xMqwn/boot-removebg-preview.png",
+        "name": "Bootstrap"
+      },
+    {
+        "logo": "https://i.ibb.co/y5Pgwvw/css-removebg-preview.png",
+        "name": "CSS"
+      },
+    {
+        "logo": "https://i.ibb.co/4ZSxzZc/java-removebg-preview.png",
+        "name": "Java Script"
+      },
+    {
+        "logo":"https://i.ibb.co/kc8WQQT/tailwind-removebg-preview.png",
+        "name": "Tailwind CSS"
+      },
+    {
+        "logo": "https://i.ibb.co/hRqqP4g/canva-removebg-preview.png",
+        "name": "Canva"
+      },
+    {
+        "logo": "https://i.ibb.co/dDk5rT7/mongodb-removebg-preview.png",
+        "name": "Mongo DB"
+      },
+    {
+        "logo": "https://i.ibb.co/GR6wp86/daisy-removebg-preview.png",
+        "name": "Daisy UI"
+      },
+    {
+        "logo": "https://i.ibb.co/vJdy7XV/react-removebg-preview.png",
+        "name": "React"
+      },
+    {
+        "logo": "https://i.ibb.co/Xp0Hq5t/figma-removebg-preview.png",
+        "name": "Figma"
+      },
+    {
+        "logo": "https://i.ibb.co/PwhkBCS/firebase-removebg-preview.png",
+        "name": "Firebase"
+      },
+    {
+        "logo": "https://i.ibb.co/7Y9KVSr/html-removebg-preview.png",
+        "name": "HTML"
+      },
+    {
+        "logo": "https://i.ibb.co/tXTPVQM/node-removebg-preview.png",
+        "name": "Node JS"
+      },
+    {
+        "logo": "https://i.ibb.co/x6C5BYg/jwt-removebg-preview.png",
+        "name": "JWT"
+      },
+    {
+        "logo": "https://i.ibb.co/kyMycFB/netlify-removebg-preview.png",
+        "name": "Netlify"
+      },
+    {
+        "logo": "https://i.ibb.co/B2n1Q8m/vite-removebg-preview.png",
+        "name": "Vite"
+      },
+    {
+        "logo": "https://i.ibb.co/kDYd2dm/router.png",
+        "name": "React Router"
+      }
+      
+]

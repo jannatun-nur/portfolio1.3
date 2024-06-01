@@ -1,0 +1,52 @@
+[
+    {
+     "image":"https://i.ibb.co/1XZMk34/ad.png",
+     "name":"Theme Design",
+     "title":"Frontend",
+     "icon1":"React",
+     "icon2":"TailwindCSS",
+     "icon3":"DaisyUI",
+     "icon4":"https://i.ibb.co/q5m5bg9/github-removebg-preview.png",
+     "icon5":"https://i.ibb.co/0VcH7Wh/download-removebg-preview.png",
+     "github":"https://github.com/jannatun-nur/theme-design",
+     "live":"https://deft-praline-bb6f15.netlify.app/",
+     "Description":"A simple website about theme design of any website. Here you can see a attractive dashboard, color combination and structure of feature section. Also have a table design which is responsive for mobile and tablet also. It's just a demo of frontend theme design based on react. "
+    
+    },
+
+
+    {
+     "image":"https://i.ibb.co/2FYLPFS/fullpage.jpg",
+     "name":"Kindness",
+     "title":"Frontend",
+    
+     "Description":"A fronted website about donation. In this website ,there has a dropdown menu with icon. To click this, You will find some option. After clicking this options ,it will redirect to the section according to options. In this website, java script also used. Donating money you can see in Your Donation section." ,
+     "icon12":"Java Script",
+     "icon2":"TailwindCSS",
+     "icon1":"React",
+     "icon4":"https://i.ibb.co/q5m5bg9/github-removebg-preview.png",
+     "icon5":"https://i.ibb.co/0VcH7Wh/download-removebg-preview.png",
+     "github":"https://github.com/jannatun-nur/donation",
+     "live":"https://zesty-mousse-908062.netlify.app/"
+     
+    },
+    {
+     "image":"https://i.ibb.co/0cY3dvC/full.jpg",
+     "name":"Knowledge Door",
+     "title":"Frontend",
+    
+     "Description":"A website about online library which is accessed by firebase. Anyone can visit  this site but to order any books a user have to sign in/sign up.There has a writers section which will be updated soon." ,
+     "icon6":"React Router ",
+     "icon2":"TailwindCSS",
+     "icon7":"Firebase",
+     "icon8":"Netlify",
+     "icon4":"https://i.ibb.co/q5m5bg9/github-removebg-preview.png",
+     "icon5":"https://i.ibb.co/0VcH7Wh/download-removebg-preview.png",
+     "github":"https://github.com/jannatun-nur/knowledge-door",
+     "live":"https://quiet-sfogliatella-bf70d7.netlify.app/"
+     
+    }
+   
+ 
+  
+]
