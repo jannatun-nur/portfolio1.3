@@ -11,7 +11,7 @@ const Card = ( { projects }) => {
         icon2,
         icon3,
         icon4,
-        icon5,icon6,icon7,icon8,icon9, icon10,github,live,icon12
+        icon5,icon6,icon7,icon8,icon9, icon10,github,live,icon12,icon14,icon15
       } = projects;
     return (
         <div  data-aos="zoom-in" 
