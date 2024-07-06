@@ -33,6 +33,9 @@ const Card = ( { projects }) => {
             <p className="text-xs md:text-xs lg:text-xs">{icon8}</p>
             <p className="text-xs md:text-xs lg:text-xs">{icon12}</p>
             
+            <p className="text-xs md:text-xs lg:text-xs">{icon14}</p>
+            <p className="text-xs md:text-xs lg:text-xs">{icon15}</p>
+            
             <p className="text-xs md:text-xl lg:text-xs">{icon9}</p>
             <p className="text-xs md:text-xl lg:text-xs">{icon10}</p>
             
