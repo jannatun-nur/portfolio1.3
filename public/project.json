@@ -1,7 +1,7 @@
 [
 
     {
-        "image":"https://i.ibb.co/BsCFGBC/po.png",
+        "image":"https://i.ibb.co/2SXy2WX/po.png",
         "name":"Pocket News",
         "title":"Frontend",
         "icon1":"React",
@@ -25,6 +25,7 @@
         "icon7":"React Router",
         "icon2":"TailwindCSS",
         "icon15":"CSS",
+        "icon20":"Next.JS",
         "icon4":"https://i.ibb.co/q5m5bg9/github-removebg-preview.png",
         "icon5":"https://i.ibb.co/0VcH7Wh/download-removebg-preview.png",
         "github":"https://github.com/jannatun-nur/react-application",

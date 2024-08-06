@@ -31,7 +31,7 @@ const Study = () => {
       >
         <img className="h-14 lg:h-24" src={chittagong} alt="" />
         <p className="text-xs md:text-xl text-center lg:pt-4">
-          Studies B.A honours at Chitagong college. Depertment of Bangla.
+          Studies B.A hon's at Chitagong college. Depertment of Bangla.
           <br />
           Session 2021-present
         </p>

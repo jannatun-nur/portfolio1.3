@@ -8,6 +8,7 @@ import About from "./About/About";
 const Home = () => {
     return (
         <div>
+        
             <About/> 
             <Expertise/>
             <Project/>
